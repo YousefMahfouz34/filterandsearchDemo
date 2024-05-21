@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\filterandsearchdemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|d:\\projects\\filterandsearchdemo\\filterandsearchdemo\\controllers\\empolyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|solutionrelative:filterandsearchdemo\\controllers\\empolyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\services\\empolyeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|solutionrelative:filterandsearchdemo\\services\\empolyeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|d:\\projects\\filterandsearchdemo\\filterandsearchdemo\\models\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|solutionrelative:filterandsearchdemo\\models\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|d:\\projects\\filterandsearchdemo\\filterandsearchdemo\\services\\iempolyeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|solutionrelative:filterandsearchdemo\\services\\iempolyeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|solutionrelative:filterandsearchdemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\services\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|solutionrelative:filterandsearchdemo\\services\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|solutionrelative:filterandsearchdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\models\\empolyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|solutionrelative:filterandsearchdemo\\models\\empolyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\context\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|solutionrelative:filterandsearchdemo\\context\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|solutionrelative:filterandsearchdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\migrations\\20240520082458_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EDEE1F-5195-497D-A999-B846983832F1}|filterandsearchdemo\\filterandsearchdemo.csproj|solutionrelative:filterandsearchdemo\\migrations\\20240520082458_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilterDto.cs",
+              "DocumentMoniker": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\models\\FilterDto.cs",
+              "RelativeDocumentMoniker": "filterandsearchdemo\\models\\FilterDto.cs",
+              "ToolTip": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\models\\FilterDto.cs",
+              "RelativeToolTip": "filterandsearchdemo\\models\\FilterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:50:25.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmpolyeeServices.cs",
+              "DocumentMoniker": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\services\\IEmpolyeeServices.cs",
+              "RelativeDocumentMoniker": "filterandsearchdemo\\services\\IEmpolyeeServices.cs",
+              "ToolTip": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\services\\IEmpolyeeServices.cs",
+              "RelativeToolTip": "filterandsearchdemo\\services\\IEmpolyeeServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:25:01.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpolyeeController.cs",
+              "DocumentMoniker": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\Controllers\\EmpolyeeController.cs",
+              "RelativeDocumentMoniker": "filterandsearchdemo\\Controllers\\EmpolyeeController.cs",
+              "ToolTip": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\Controllers\\EmpolyeeController.cs",
+              "RelativeToolTip": "filterandsearchdemo\\Controllers\\EmpolyeeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:35:43.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpolyeeServices.cs",
+              "DocumentMoniker": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\services\\EmpolyeeServices.cs",
+              "RelativeDocumentMoniker": "filterandsearchdemo\\services\\EmpolyeeServices.cs",
+              "ToolTip": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\services\\EmpolyeeServices.cs",
+              "RelativeToolTip": "filterandsearchdemo\\services\\EmpolyeeServices.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:35:19.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\Program.cs",
+              "RelativeDocumentMoniker": "filterandsearchdemo\\Program.cs",
+              "ToolTip": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\Program.cs",
+              "RelativeToolTip": "filterandsearchdemo\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAzwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:28:05.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\appsettings.json",
+              "RelativeDocumentMoniker": "filterandsearchdemo\\appsettings.json",
+              "ToolTip": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\appsettings.json",
+              "RelativeToolTip": "filterandsearchdemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T07:27:18.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DemoContext.cs",
+              "DocumentMoniker": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\context\\DemoContext.cs",
+              "RelativeDocumentMoniker": "filterandsearchdemo\\context\\DemoContext.cs",
+              "ToolTip": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\context\\DemoContext.cs",
+              "RelativeToolTip": "filterandsearchdemo\\context\\DemoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:25:10.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\models\\Department.cs",
+              "RelativeDocumentMoniker": "filterandsearchdemo\\models\\Department.cs",
+              "ToolTip": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\models\\Department.cs",
+              "RelativeToolTip": "filterandsearchdemo\\models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:22:12.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Empolyee.cs",
+              "DocumentMoniker": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\models\\Empolyee.cs",
+              "RelativeDocumentMoniker": "filterandsearchdemo\\models\\Empolyee.cs",
+              "ToolTip": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\models\\Empolyee.cs",
+              "RelativeToolTip": "filterandsearchdemo\\models\\Empolyee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:17:20.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Filter.cs",
+              "DocumentMoniker": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\services\\Filter.cs",
+              "RelativeDocumentMoniker": "filterandsearchdemo\\services\\Filter.cs",
+              "ToolTip": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\services\\Filter.cs",
+              "RelativeToolTip": "filterandsearchdemo\\services\\Filter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:49:22.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240520082458_init.cs",
+              "DocumentMoniker": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\Migrations\\20240520082458_init.cs",
+              "RelativeDocumentMoniker": "filterandsearchdemo\\Migrations\\20240520082458_init.cs",
+              "ToolTip": "D:\\Projects\\filterandsearchdemo\\filterandsearchdemo\\Migrations\\20240520082458_init.cs",
+              "RelativeToolTip": "filterandsearchdemo\\Migrations\\20240520082458_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:24:58.714Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
